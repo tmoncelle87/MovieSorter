@@ -1,0 +1,8 @@
+C:\Users\tmonc\source\repos\MovieProject\bin\Debug\MovieProject.exe.config
+C:\Users\tmonc\source\repos\MovieProject\bin\Debug\MovieProject.exe
+C:\Users\tmonc\source\repos\MovieProject\bin\Debug\MovieProject.pdb
+C:\Users\tmonc\source\repos\MovieProject\obj\Debug\MovieProject.csproj.AssemblyReference.cache
+C:\Users\tmonc\source\repos\MovieProject\obj\Debug\MovieProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\tmonc\source\repos\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
+C:\Users\tmonc\source\repos\MovieProject\obj\Debug\MovieProject.exe
+C:\Users\tmonc\source\repos\MovieProject\obj\Debug\MovieProject.pdb
