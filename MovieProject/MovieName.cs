@@ -23,7 +23,7 @@ namespace MovieProject
         {
             string msg = "";
             msg += msg
-            + this.MovieCount +" " + this.MovieName + "\n";
+            + "Number: "+ this.MovieCount + "    " + this.MovieName;
             return msg; 
         }
     }

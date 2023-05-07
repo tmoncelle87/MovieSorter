@@ -6,3 +6,11 @@ C:\Users\tmonc\source\repos\MovieProject\obj\Debug\MovieProject.csproj.Suggested
 C:\Users\tmonc\source\repos\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
 C:\Users\tmonc\source\repos\MovieProject\obj\Debug\MovieProject.exe
 C:\Users\tmonc\source\repos\MovieProject\obj\Debug\MovieProject.pdb
+E:\GitHub\MovieSorter\MovieProject\bin\Debug\MovieProject.exe.config
+E:\GitHub\MovieSorter\MovieProject\bin\Debug\MovieProject.exe
+E:\GitHub\MovieSorter\MovieProject\bin\Debug\MovieProject.pdb
+E:\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.csproj.AssemblyReference.cache
+E:\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
+E:\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.exe
+E:\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.pdb
