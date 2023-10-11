@@ -14,3 +14,11 @@ E:\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.csproj.SuggestedBindin
 E:\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
 E:\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.exe
 E:\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.pdb
+C:\Users\tmonc\Documents\GitHub\MovieSorter\MovieProject\bin\Debug\MovieProject.exe.config
+C:\Users\tmonc\Documents\GitHub\MovieSorter\MovieProject\bin\Debug\MovieProject.exe
+C:\Users\tmonc\Documents\GitHub\MovieSorter\MovieProject\bin\Debug\MovieProject.pdb
+C:\Users\tmonc\Documents\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.csproj.AssemblyReference.cache
+C:\Users\tmonc\Documents\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\tmonc\Documents\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
+C:\Users\tmonc\Documents\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.exe
+C:\Users\tmonc\Documents\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.pdb

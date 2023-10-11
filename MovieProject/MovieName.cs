@@ -21,10 +21,20 @@ namespace MovieProject
         }//Tostring method that displays movie count next to the movie name
         public override string ToString()
         {
-            string msg = "";
-            msg += msg
-            + "Number: "+ this.MovieCount + "    " + this.MovieName;
-            return msg; 
+            string msg;
+            if (this.MovieCount > 99)
+            {
+                msg = "Number: " + this.MovieCount + "    " + this.MovieName;
+            }
+            else if (this.MovieCount > 9)
+            {
+                msg = "Number: " + this.MovieCount + "     " + this.MovieName;
+            }
+            else
+            {
+                msg = "Number: " + this.MovieCount + "      " + this.MovieName;
+            }
+            return msg;
         }
     }
 }
