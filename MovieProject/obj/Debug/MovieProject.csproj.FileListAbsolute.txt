@@ -22,3 +22,10 @@ C:\Users\tmonc\Documents\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.
 C:\Users\tmonc\Documents\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
 C:\Users\tmonc\Documents\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.exe
 C:\Users\tmonc\Documents\GitHub\MovieSorter\MovieProject\obj\Debug\MovieProject.pdb
+E:\Coding Stuff\Repro\MovieSorter\MovieProject\bin\Debug\MovieProject.exe.config
+E:\Coding Stuff\Repro\MovieSorter\MovieProject\bin\Debug\MovieProject.exe
+E:\Coding Stuff\Repro\MovieSorter\MovieProject\bin\Debug\MovieProject.pdb
+E:\Coding Stuff\Repro\MovieSorter\MovieProject\obj\Debug\MovieProject.csproj.AssemblyReference.cache
+E:\Coding Stuff\Repro\MovieSorter\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
+E:\Coding Stuff\Repro\MovieSorter\MovieProject\obj\Debug\MovieProject.exe
+E:\Coding Stuff\Repro\MovieSorter\MovieProject\obj\Debug\MovieProject.pdb
