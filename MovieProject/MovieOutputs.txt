@@ -1,320 +1,352 @@
 --------------------------------------
 Scott's Movie Collection
-Date Ran: 12/24/2025
+Date Ran: 01/20/2026
 Duplicate Removal: Enabled
 Capitalization: Enabled
 --------------------------------------
-001:  10 Cloverfield Ln.
-002:  1917
-003:  300
-004:  310 To Yuma
-005:  A Good Day To Die Hard
-006:  A Quiet Place
-007:  A Score To Settle
-008:  After The Sunset
-009:  Air
-010:  Aladdin
-011:  Alice In Wonderland
-012:  Alien Conquest
-013:  Alien Covenant
-014:  Allegiance
-015:  American Graffiti
-016:  American Underdog
-017:  Angel Has Fallen
-018:  Ant-Man
-019:  Apex
-020:  Avatar
-021:  Avatar The Way Of Water
-022:  Avengers Age Of Ultron
-023:  Bad Neighbors
-024:  Bad News Bears
-025:  Bakugan
-026:  Barbershop The Next Cut
-027:  Batman Versus Superman
-028:  Beautiful Day In The Neighborhood
-029:  Black Light
-030:  Black Panther Wakanda Forever
-031:  Black Site
-032:  Blackwater
-033:  Blackwood
-034:  Bleeding Steel
-035:  Blood Work
-036:  Bloodshot
-037:  Bodyguard Hitman�s Wifes
-038:  Camp St. Croix
-039:  Captain America Civil War
-040:  Captain America The Winter Soldier
-041:  Captain Phillips
-042:  Casper
-043:  Chitty Chitty Bang Bang
-044:  Cold Pursuit
-045:  Contagion
-046:  Crash
-047:  Cry Macho
-048:  Dark Man
-049:  Dark Places
-050:  Dawn Of The Planet Of The Apes
-051:  Deepwater Horizon
-052:  Despicable Me Three
-053:  Despicable Me Two
-054:  Die Another Day 007
-055:  Die Hard Live Free Or Die Hard
-056:  District 9
-057:  Divergent
-058:  Dog
-059:  Domino
-060:  Don Knox Comedy Collections
-061:  Double Jeopardy
-062:  Dr. Dolittle
-063:  Dracula Untold
-064:  Easy Rider
-065:  El Royals Bad Times
-066:  Enders Game
-067:  Escape Plan
-068:  Escape Plan One
-069:  Escape Plan Two
-070:  Eternals
-071:  Ex Machina
-072:  Expendables Three
-073:  Expendables Two
-074:  Expendibles 4
-075:  Falling Down
-076:  Fast And Furious Nine
-077:  Fast And Furious Seven
-078:  Fast X
-079:  Final Destination
-080:  Final Kill
-081:  Firewall
-082:  Ford Versus Ferrari
-083:  Fortress
-084:  Freaky Friday
-085:  Fred Claus
-086:  Free Guy
-087:  Frozen
-088:  Fury
-089:  G.I. Joe Retaliation
-090:  Gemini Man
-091:  Ghost Rider
-092:  Ghostbusters Afterlife
-093:  Glass
-094:  Godzilla Versus King Kong
-095:  Gravity
-096:  Gridiron Gang
-097:  Guardians Of The Galaxy
-098:  Guardians Of The Galaxy Volume Two
-099:  Hacksaw Ridge
-100:  HammerAquaman
-101:  Harry Potter Order Of Phoenix
-102:  Hell Or Highwater
-103:  Herbie Fully Loaded
-104:  High School Musical Two
-105:  Hobbit
-106:  Hobbs And Shaw
-107:  Honest Thief
-108:  Hulk
-109:  Hulk And Iron Man
-110:  Hunter Killer
-111:  I Robot
-112:  In Harms Way
-113:  Independence Day Resurrection
-114:  Indiana Jones And The Dial Of Destiny
-115:  Infestation
-116:  Infinite
-117:  Infinity Pool
-118:  Inside Man Most Wanted
-119:  Insomnia
-120:  Interpreter
-121:  Interstellar
-122:  Iron Man Three
-123:  It
-124:  Joker
-125:  Jumanji The Next Level
-126:  Jungle Book
-127:  Jupiter Ascending
-128:  Jurassic World
-129:  Jurassic World Dominion
-130:  Justice Society World War Two
-131:  Kenny Rogers The Gambler
-132:  Kong Skull Island
-133:  Lakeville Lightning
-134:  Left Behind
-135:  Limitless
-136:  Lord Of The Rings The Fellowship Of The Ring
-137:  Lord Of The Rings The Return Of The King
-138:  Lord Of The Rings The Two Towers
-139:  Mad Max Fury Road
-140:  Maleficent
-141:  Mary
-142:  Mary Poppins
-143:  Matilda
-144:  Mechanic Resurrection
-145:  Megan
-146:  Memory
-147:  Midnight In The Switch Grass
-148:  Midway
-149:  Mile 22
-150:  Million Dollar Baby
-151:  Minority Report
-152:  Mission Impossible Dead Reckoning
-153:  Mission Impossible Ghost Protocol
-154:  Mission Impossible Rogue Nation
-155:  Mississippi Grind
-156:  Money Monsters
-157:  Monster Hunter
-158:  Monsters University
-159:  Moonfall
-160:  Mummy
-161:  My Name Is Nobody And Cains
-162:  National Treasure
-163:  Never Go Back
-164:  No Escape
-165:  No Time To Die
-166:  Nobody
-167:  North Country
-168:  Now You See Me
-169:  Oblivion
-170:  Old
-171:  One Shot
-172:  Only The Brave
-173:  Onward
-174:  Operation Fortune
-175:  Oppenheimer
-176:  Paddington
-177:  Panic Room
-178:  Paranormal Activity
-179:  Paranormal Activity Three
-180:  Paranormal Activity Two
-181:  Passengers
-182:  Patriots Day
-183:  Percy Jackson And The Olympians The Lightning Thief
-184:  Percy Jackson Sea Of Monsters
-185:  Pets
-186:  Pixels
-187:  Planes By Disney
-188:  Popeye
-189:  Pulp Fiction
-190:  Rambo Last Blood
-191:  Rampage
-192:  Rangers
-193:  Return From Witch Mountain
-194:  Riddick
-195:  Ride Along Two
-196:  Runaway Jury
-197:  San Andreas
-198:  Santa Claus The Escape Clause
-199:  Santa Paws
-200:  Saw Six It�s A Trap
-201:  Saw The Final Chapter
-202:  Saw X
-203:  Scooby Doo And The Loch Ness Monster
-204:  Scooby Doo And The Witches Ghost
-205:  Scooby Doo Complete First And Second Season
-206:  Scooby Doo Kiss
-207:  Scooby Doo Moon Monster Madness
-208:  Scorpion King Two
-209:  Seal Patrol
-210:  Signs
-211:  Sisu
-212:  Snitch
-213:  Snow Dogs
-214:  Sonic The Hedgehog
-215:  Sonic Two
-216:  Spider-Man Three
-217:  Spider-Man Two
-218:  Spiral
-219:  Spirit
-220:  Star Trek Beyond
-221:  Star Trek Nemesis
-222:  Star Trek Picard The Final Season
-223:  Star Wars Rogue One
-224:  Stillwater
-225:  Street Kings
-226:  Sully
-227:  Superman
-228:  Swat
-229:  Swordfish
-230:  Synchronic
-231:  Taken Three
-232:  Taken Two
-233:  Taking
-234:  Tears Of The Sun
-235:  Ted
-236:  Tenet
-237:  Terminator Dark Fate
-238:  Terminator Genisys
-239:  Terminator Salvation
-240:  Terminator Three Rise Of The Machines
-241:  That Dirty Black Bag
-242:  The Accountant
-243:  The Addams Family The Complete Series
-244:  The Battle Of Midway
-245:  The Black Adam
-246:  The Bourne Identity
-247:  The Bourne Ultimatum
-248:  The Core
-249:  The Covenant
-250:  The Edge Of Tomorrow
-251:  The Equalizer
-252:  The Fate Of The Furious
-253:  The Fifth Estate
-254:  The Forever Purge
-255:  The Founder Of McDonald�s
-256:  The Game
-257:  The Grey
-258:  The Hateful Eight
-259:  The Hobbit
-260:  The Hunger Games
-261:  The Hunger Games Catching Fire
-262:  The Imitation Game
-263:  The Italian Job
-264:  The Kingsman
-265:  The Land Before Time The Mysterious Island
-266:  The Last Son
-267:  The Last Starfighter
-268:  The Lion King
-269:  The Lord Of The Rings The Two Towers
-270:  The Marksman
-271:  The Maze Runner
-272:  The Monuments Men
-273:  The Munsters Complete Series
-274:  The November Man
-275:  The Outpost
-276:  The Secret Life Of Walter Mitty
-277:  The Secrets Of Dumbledore
-278:  The Spiderwick Chronicles
-279:  The Super Mario Bros Movie
-280:  The Wall
-281:  The War Horse
-282:  The Wizard Of Oz
-283:  The Yellow Birds
-284:  Thor Love And Thunder
-285:  Tomorrowland
-286:  Top Gun Two
-287:  Transformers
-288:  Transformers Revenge Of The Fallen
-289:  Transformers Rise Of The Beasts
-290:  Transformers The Age Of Extinction
-291:  Transporter Three
-292:  Triple X
-293:  UFO
-294:  Unaccompanied Minors
-295:  Unbreakable
-296:  Uncharted
-297:  Unhinged
-298:  Vantage Point Hammer The Imitation Game
-299:  Vesper
-300:  Voyageurs
-301:  War Dogs
-302:  War Of The Worlds
-303:  Warning
-304:  Were The Millers
-305:  Why Him
-306:  Willow
-307:  Windtalkers
-308:  World War Z
-309:  X Men
-310:  Star Trek Into Darkness
+001  10 Cloverfield Ln.
+002  1917
+003  28 Years Later
+004  300
+005  310 To Yuma
+006  A Good Day To Die Hard
+007  A Quiet Place
+008  A Score To Settle
+009  After The Sunset
+010  Air
+011  Aladdin
+012  Alice In Wonderland
+013  Alien
+014  Alien Conquest
+015  Alien Covenant
+016  Allegiance
+017  American Graffiti
+018  American Underdog
+019  Angel Has Fallen
+020  Ant-Man
+021  Apex
+022  Avatar
+023  Avatar The Way Of Water
+024  Avengers Age Of Ultron
+025  Bad Neighbors
+026  Bad News Bears
+027  Bakugan
+028  Ballerina
+029  Barbershop The Next Cut
+030  Batman Versus Superman
+031  Beautiful Day In The Neighborhood
+032  Beetlejuice (2-Film Collection)
+033  Black Light
+034  Black Panther Wakanda Forever
+035  Black Site
+036  Blackwater
+037  Blackwood
+038  Bleeding Steel
+039  Blood Work
+040  Bloodshot
+041  Bodyguard Hitman�s Wifes
+042  Camp St. Croix
+043  Captain America Civil War
+044  Captain America The Winter Soldier
+045  Captain Phillips
+046  Casper
+047  Chitty Chitty Bang Bang
+048  Cold Pursuit
+049  Contagion
+050  Crash
+051  Cry Macho
+052  Dark Man
+053  Dark Places
+054  Daryl Dixon Season One
+055  Dawn Of The Planet Of The Apes
+056  Deepwater Horizon
+057  Den Of Thieves 2: Pantera
+058  Despicable Me Three
+059  Despicable Me Two
+060  Dexter: New Blood
+061  Dexter: The Complete Series
+062  Die Another Day 007
+063  Die Hard Live Free Or Die Hard
+064  District 9
+065  Divergent
+066  Dog
+067  Domino
+068  Don Knox Comedy Collections
+069  Double Jeopardy
+070  Dr. Dolittle
+071  Dracula Untold
+072  Easy Rider
+073  El Royals Bad Times
+074  Elevation
+075  Enders Game
+076  Escape Plan
+077  Escape Plan One
+078  Escape Plan Two
+079  Eternals
+080  Ex Machina
+081  Expendables Three
+082  Expendables Two
+083  Expendibles 4
+084  F1: The Movie
+085  Falling Down
+086  Fast And Furious Nine
+087  Fast And Furious Seven
+088  Fast X
+089  Final Destination
+090  Final Kill
+091  Firewall
+092  Ford Versus Ferrari
+093  Fortress
+094  Freaky Friday
+095  Fred Claus
+096  Free Guy
+097  Frozen
+098  Fury
+099  G.I. Joe Retaliation
+100  Gemini Man
+101  Ghost Rider
+102  Ghostbusters Afterlife
+103  Glass
+104  Godzilla Versus King Kong
+105  Gravity
+106  Gridiron Gang
+107  Guardians Of The Galaxy
+108  Guardians Of The Galaxy Volume Two
+109  Hacksaw Ridge
+110  HammerAquaman
+111  Harry Potter Order Of Phoenix
+112  Hell Or Highwater
+113  Herbie Fully Loaded
+114  High School Musical Two
+115  HIM
+116  Hobbit
+117  Hobbs And Shaw
+118  Honest Thief
+119  Hulk
+120  Hulk And Iron Man
+121  Hunter Killer
+122  I Robot
+123  In Harms Way
+124  Independence Day Resurrection
+125  Indiana Jones And The Dial Of Destiny
+126  Infestation
+127  Infinite
+128  Infinity Pool
+129  Inside Man Most Wanted
+130  Insomnia
+131  Interpreter
+132  Interstellar
+133  Iron Man Three
+134  It
+135  Joker
+136  Jumanji The Next Level
+137  Jungle Book
+138  Jupiter Ascending
+139  Jurassic World
+140  Jurassic World Dominion
+141  Jurassic World: Rebirth
+142  Justice Society World War Two
+143  Kenny Rogers The Gambler
+144  Kong Skull Island
+145  Lakeville Lightning
+146  Land Man Season One And Two
+147  Left Behind
+148  Limitless
+149  Lord Of The Rings The Fellowship Of The Ring
+150  Lord Of The Rings The Return Of The King
+151  Lord Of The Rings The Two Towers
+152  Mad Max Fury Road
+153  Maleficent
+154  Mary
+155  Mary Poppins
+156  Matilda
+157  Mechanic Resurrection
+158  Megan
+159  Memory
+160  Midnight In The Switch Grass
+161  Midway
+162  Mile 22
+163  Million Dollar Baby
+164  Minority Report
+165  Mission Impossible Dead Reckoning
+166  Mission Impossible Ghost Protocol
+167  Mission Impossible Rogue Nation
+168  Mission: Impossible � The Final Reckoning
+169  Mississippi Grind
+170  Money Monsters
+171  Monster Hunter
+172  Monsters University
+173  Moonfall
+174  Mummy
+175  My Name Is Nobody And Cains
+176  National Treasure
+177  Never Go Back
+178  Never Let Go
+179  No Escape
+180  No Time To Die
+181  Nobody
+182  Nobody 2
+183  North Country
+184  Now You See Me
+185  Oblivion
+186  Old
+187  One Shot
+188  Only The Brave
+189  Onward
+190  Operation Fortune
+191  Oppenheimer
+192  Paddington
+193  Panic Room
+194  Paranormal Activity
+195  Paranormal Activity Three
+196  Paranormal Activity Two
+197  Passengers
+198  Patriots Day
+199  Percy Jackson And The Olympians The Lightning Thief
+200  Percy Jackson Sea Of Monsters
+201  Pets
+202  Pixels
+203  Planes By Disney
+204  Popeye
+205  Pulp Fiction
+206  Rambo Last Blood
+207  Rampage
+208  Rangers
+209  Red One
+210  Return From Witch Mountain
+211  Riddick
+212  Ride Along Two
+213  Runaway Jury
+214  San Andreas
+215  Santa Claus The Escape Clause
+216  Santa Paws
+217  Saw Six It�s A Trap
+218  Saw The Final Chapter
+219  Saw X
+220  Scooby Doo And The Loch Ness Monster
+221  Scooby Doo And The Witches Ghost
+222  Scooby Doo Complete First And Second Season
+223  Scooby Doo Kiss
+224  Scooby Doo Moon Monster Madness
+225  Scorpion King Two
+226  Seal Patrol
+227  Severance
+228  Signs
+229  Sisu
+230  Smile 2
+231  Snitch
+232  Snow Dogs
+233  Sonic The Hedgehog
+234  Sonic Two
+235  Speak No Evil
+236  Spider-Man Three
+237  Spider-Man Two
+238  Spiral
+239  Spirit
+240  Star Trek Beyond
+241  Star Trek Nemesis
+242  Star Trek Picard The Final Season
+243  Star Wars Rogue One
+244  Stillwater
+245  Street Kings
+246  Sully
+247  Superman
+248  Swat
+249  Swordfish
+250  Synchronic
+251  Taken Three
+252  Taken Two
+253  Taking
+254  Tears Of The Sun
+255  Ted
+256  Tenet
+257  Terminator Dark Fate
+258  Terminator Genisys
+259  Terminator Salvation
+260  Terminator Three Rise Of The Machines
+261  That Dirty Black Bag
+262  The Accountant
+263  The Addams Family The Complete Series
+264  The Battle Of Midway
+265  The Black Adam
+266  The Bourne Identity
+267  The Bourne Ultimatum
+268  The Conjuring 4
+269  The Core
+270  The Covenant
+271  The Edge Of Tomorrow
+272  The Equalizer
+273  The Fate Of The Furious
+274  The Fifth Estate
+275  The Forever Purge
+276  The Founder Of McDonald�s
+277  The Game
+278  The Grey
+279  The Hateful Eight
+280  The Hobbit
+281  The Hunger Games
+282  The Hunger Games Catching Fire
+283  The Imitation Game
+284  The Italian Job
+285  The Kingsman
+286  The Land Before Time The Mysterious Island
+287  The Last Son
+288  The Last Starfighter
+289  The Lion King
+290  The Long Walk
+291  The Lord Of The Rings The Two Towers
+292  The Marksman
+293  The Maze Runner
+294  The Monuments Men
+295  The Munsters Complete Series
+296  The Naked Gun
+297  The November Man
+298  The Order
+299  The Outpost
+300  The Secret Life Of Walter Mitty
+301  The Secrets Of Dumbledore
+302  The Spiderwick Chronicles
+303  The Substance
+304  The Super Mario Bros Movie
+305  The Walking Dead: Daryl Dixon Season 3
+306  The Wall
+307  The War Horse
+308  The Wizard Of Oz
+309  The Yellow Birds
+310  Thor Love And Thunder
+311  Together
+312  Tomorrowland
+313  Top Gun Two
+314  Transformers
+315  Transformers Revenge Of The Fallen
+316  Transformers Rise Of The Beasts
+317  Transformers The Age Of Extinction
+318  Transporter Three
+319  Triple X
+320  Tulsa Kind Season One And Two
+321  UFO
+322  Unaccompanied Minors
+323  Unbreakable
+324  Uncharted
+325  Unhinged
+326  Valiant One
+327  Vantage Point Hammer The Imitation Game
+328  Venom: The Last Dance
+329  Vesper
+330  Voyageurs
+331  War Dogs
+332  War Of The Worlds
+333  Warning
+334  Were The Millers
+335  Why Him
+336  Willow
+337  Windtalkers
+338  World War Z
+339  X Men
+340  Yellowjackets Season 1
+341  Yellowjackets Season 2
+342  Star Trek Into Darkness
 --------------------------------------
-End of Inventory Movie Count: 310
+End of Inventory Movie Count: 342
 --------------------------------------
 

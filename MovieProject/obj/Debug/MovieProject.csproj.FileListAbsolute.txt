@@ -29,3 +29,10 @@ E:\Coding Stuff\Repro\MovieSorter\MovieProject\obj\Debug\MovieProject.csproj.Ass
 E:\Coding Stuff\Repro\MovieSorter\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
 E:\Coding Stuff\Repro\MovieSorter\MovieProject\obj\Debug\MovieProject.exe
 E:\Coding Stuff\Repro\MovieSorter\MovieProject\obj\Debug\MovieProject.pdb
+D:\Github Coding Repo\MovieSorter\MovieProject\bin\Debug\MovieProject.exe.config
+D:\Github Coding Repo\MovieSorter\MovieProject\bin\Debug\MovieProject.exe
+D:\Github Coding Repo\MovieSorter\MovieProject\bin\Debug\MovieProject.pdb
+D:\Github Coding Repo\MovieSorter\MovieProject\obj\Debug\MovieProject.csproj.AssemblyReference.cache
+D:\Github Coding Repo\MovieSorter\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
+D:\Github Coding Repo\MovieSorter\MovieProject\obj\Debug\MovieProject.exe
+D:\Github Coding Repo\MovieSorter\MovieProject\obj\Debug\MovieProject.pdb

@@ -20,7 +20,7 @@ namespace MovieProject
             var seen = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
             List<Movie> aListOfMovie = new List<Movie>();
             FileGateway aGateway = new FileGateway();
-            aListOfMovie = aGateway.GetMovies(@"E:\Coding Stuff\Repro\MovieSorter\MovieProject\MoviesInputs.txt");
+            aListOfMovie = aGateway.GetMovies(@"D:\Github Coding Repo\MovieSorter\MovieProject\MoviesInputs.txt");
             //Functions
             string CapitalizeWords(string Input)
             {
@@ -46,7 +46,7 @@ namespace MovieProject
             {
                 Console.WriteLine(m.ToString());
             }
-            using (StreamWriter writer = new StreamWriter("E:\\Coding Stuff\\Repro\\MovieSorter\\MovieProject\\MovieOutputs.txt"))
+            using (StreamWriter writer = new StreamWriter(@"D:\Github Coding Repo\MovieSorter\MovieProject\MovieOutputs.txt"))
             {
                 // Loop through each Movie object in the list and write its ToString output to the file
                 writer.WriteLine("--------------------------------------\n" +
@@ -65,7 +65,7 @@ namespace MovieProject
                         if (IsCapitalization)
                             title = CapitalizeWords(title);
                         // write your own numbering (001, 002, ...)
-                        writer.WriteLine($"{MovieCount:D3}:  {title}");
+                        writer.WriteLine($"{MovieCount:D3}  {title}");
                     }
                 }
                 writer.WriteLine("--------------------------------------\n" +
